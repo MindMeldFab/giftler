@@ -1,0 +1,4 @@
+#Sat Apr 06 15:16:05 BST 2019
+base.0=/Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

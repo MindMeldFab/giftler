@@ -1,0 +1,494 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:design:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/525118c66154844e9902076a2a6523c0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bca70ddcbe17d79093740636d82457e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/fe376627758eab06671320447abf101f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:26.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/customtabs-26.0.0.aar/8ddb02951484c22d454a59dc09d07430/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-database:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-database-11.2.2.aar/4b8f0ff5220d3a5a4d04aaa2432ea92f/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-auth:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.2.2.aar/6f3116021647981460452e757fe0a3bc/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-config:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-config-11.2.2.aar/c0f96c51f9e9e91003b8c2a2c68c8c05/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-base-11.2.2.aar/d2789c0144185b644078e907e4256ae4/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-storage:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.2.2.aar/45b3e5f233f559d1c852330e5f9cc719/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-core:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-core-11.2.2.aar/ded385f337181aebe20ae113149f6356/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-database-connection:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.2.2.aar/b2005cecf8f6321de5d32f0e3bff4b48/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.2.aar/d9a440b82e2ccc3764999659738078cb/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-common:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-common-11.2.2.aar/ba7b2976f56584d634b13c5fbdb2000e/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.2.2.aar/d37f177cbb4338c3f12a2e2f96528bcc/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-storage-common:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.2.2.aar/9aa047af48e8a3c7c424339ab49414cd/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-basement:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.2.2.aar/0e491352a2957ac5daec62cde795cd62/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/41a4795ed2463752ddbafd73a04f91f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d52f4bb56d0f460e1ab57b2601a7a1c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0a8f68d233a36128b5ef4d14c1ad0b09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/aebc302f78860747c17e135cd7e89197/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fa80e7c5625b697e67d21db1d0ffbf33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4779232b2b671bdaae50ac5448681fb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/41998cf06077fc4e09d009ad40e6ce59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/58ede36cb06e7728b38755d88a1abc68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/fa66a65d84d94f10dd6e9281a363b6d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8f3ea962f90694b6666104bfc547ebd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6771bcbb078c614031ace30855bccd94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/de35cf57502939476f897805d4c12909/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/491ba8644a0c0eea8df1f59708a21a99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ef1470b8ff280471385505e59e9986da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c5a75496b00983fd42f52be193bddfe0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/14409023483c62960f66a54551b19db7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a47721eb86969c5e44faab814ffcd77e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/54df8d98db13130b2e7e8151f837d10c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/370d9d5324c489cda31aa118a6d4fb46/AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/d3542cee75a6685a0fde72607b47b006/AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_camera:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/956216c40b61584fd61235393a2579ee/AndroidManifest.xml:2:1-23:12
+MERGED from [:firebase-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-release.aar/853825d69243d5b7edb02f08f823621f/AndroidManifest.xml:2:1-24:12
+MERGED from [:widgets-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/b7e72ff0bcb6ba062ed37679d4050ee4/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fc410574b353d5146c006a4d36488faa/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/681c4ad8b797ae3658bda058d7065f29/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7e04e79de5764e49cd7c61e95a961a1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e0c66bbcc2fbc8381b7e2668831f722e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7a26cd9d1226c4053cdc4b9e2e224229/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b524f6b51e48f10655044ee61744828a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/43fb34116678a441ead304e0a6ffed5f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/cc5c6d5df236a3786f0cbedb1517e7a5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8f03be2981ad43eed7d9e484bae371d9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/278d95ced3a2e2a966f48f4888fadd75/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ddcd0b95eaf710645f5d7cac1e99c4f5/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:3:2-32
+		INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:design:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/525118c66154844e9902076a2a6523c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/525118c66154844e9902076a2a6523c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bca70ddcbe17d79093740636d82457e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/bca70ddcbe17d79093740636d82457e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/fe376627758eab06671320447abf101f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/fe376627758eab06671320447abf101f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/customtabs-26.0.0.aar/8ddb02951484c22d454a59dc09d07430/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/customtabs-26.0.0.aar/8ddb02951484c22d454a59dc09d07430/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-database-11.2.2.aar/4b8f0ff5220d3a5a4d04aaa2432ea92f/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-database-11.2.2.aar/4b8f0ff5220d3a5a4d04aaa2432ea92f/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-auth:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.2.2.aar/6f3116021647981460452e757fe0a3bc/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.2.2.aar/6f3116021647981460452e757fe0a3bc/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-config-11.2.2.aar/c0f96c51f9e9e91003b8c2a2c68c8c05/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-config-11.2.2.aar/c0f96c51f9e9e91003b8c2a2c68c8c05/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-base-11.2.2.aar/d2789c0144185b644078e907e4256ae4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-base-11.2.2.aar/d2789c0144185b644078e907e4256ae4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.2.2.aar/45b3e5f233f559d1c852330e5f9cc719/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.2.2.aar/45b3e5f233f559d1c852330e5f9cc719/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-core-11.2.2.aar/ded385f337181aebe20ae113149f6356/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-core-11.2.2.aar/ded385f337181aebe20ae113149f6356/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.2.2.aar/b2005cecf8f6321de5d32f0e3bff4b48/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.2.2.aar/b2005cecf8f6321de5d32f0e3bff4b48/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.2.aar/d9a440b82e2ccc3764999659738078cb/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.2.aar/d9a440b82e2ccc3764999659738078cb/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-common-11.2.2.aar/ba7b2976f56584d634b13c5fbdb2000e/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-common-11.2.2.aar/ba7b2976f56584d634b13c5fbdb2000e/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.2.2.aar/d37f177cbb4338c3f12a2e2f96528bcc/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.2.2.aar/d37f177cbb4338c3f12a2e2f96528bcc/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.2.2.aar/9aa047af48e8a3c7c424339ab49414cd/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.2.2.aar/9aa047af48e8a3c7c424339ab49414cd/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.2.2.aar/0e491352a2957ac5daec62cde795cd62/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.2.2.aar/0e491352a2957ac5daec62cde795cd62/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/41a4795ed2463752ddbafd73a04f91f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/41a4795ed2463752ddbafd73a04f91f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d52f4bb56d0f460e1ab57b2601a7a1c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d52f4bb56d0f460e1ab57b2601a7a1c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0a8f68d233a36128b5ef4d14c1ad0b09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0a8f68d233a36128b5ef4d14c1ad0b09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/aebc302f78860747c17e135cd7e89197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/aebc302f78860747c17e135cd7e89197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fa80e7c5625b697e67d21db1d0ffbf33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fa80e7c5625b697e67d21db1d0ffbf33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4779232b2b671bdaae50ac5448681fb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4779232b2b671bdaae50ac5448681fb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/41998cf06077fc4e09d009ad40e6ce59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/41998cf06077fc4e09d009ad40e6ce59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/58ede36cb06e7728b38755d88a1abc68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/58ede36cb06e7728b38755d88a1abc68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/fa66a65d84d94f10dd6e9281a363b6d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/fa66a65d84d94f10dd6e9281a363b6d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8f3ea962f90694b6666104bfc547ebd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8f3ea962f90694b6666104bfc547ebd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6771bcbb078c614031ace30855bccd94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6771bcbb078c614031ace30855bccd94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/de35cf57502939476f897805d4c12909/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/de35cf57502939476f897805d4c12909/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/491ba8644a0c0eea8df1f59708a21a99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/491ba8644a0c0eea8df1f59708a21a99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ef1470b8ff280471385505e59e9986da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ef1470b8ff280471385505e59e9986da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c5a75496b00983fd42f52be193bddfe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c5a75496b00983fd42f52be193bddfe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/14409023483c62960f66a54551b19db7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/14409023483c62960f66a54551b19db7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a47721eb86969c5e44faab814ffcd77e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a47721eb86969c5e44faab814ffcd77e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/54df8d98db13130b2e7e8151f837d10c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/54df8d98db13130b2e7e8151f837d10c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/370d9d5324c489cda31aa118a6d4fb46/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/370d9d5324c489cda31aa118a6d4fb46/AndroidManifest.xml:20:5-43
+MERGED from [:nativescript-optimized-with-inspector:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/d3542cee75a6685a0fde72607b47b006/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/d3542cee75a6685a0fde72607b47b006/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript_camera:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/956216c40b61584fd61235393a2579ee/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_camera:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/956216c40b61584fd61235393a2579ee/AndroidManifest.xml:7:5-47
+MERGED from [:firebase-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-release.aar/853825d69243d5b7edb02f08f823621f/AndroidManifest.xml:7:5-9:41
+MERGED from [:firebase-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-release.aar/853825d69243d5b7edb02f08f823621f/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/b7e72ff0bcb6ba062ed37679d4050ee4/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/b7e72ff0bcb6ba062ed37679d4050ee4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fc410574b353d5146c006a4d36488faa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fc410574b353d5146c006a4d36488faa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/681c4ad8b797ae3658bda058d7065f29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/681c4ad8b797ae3658bda058d7065f29/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7e04e79de5764e49cd7c61e95a961a1a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7e04e79de5764e49cd7c61e95a961a1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e0c66bbcc2fbc8381b7e2668831f722e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e0c66bbcc2fbc8381b7e2668831f722e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7a26cd9d1226c4053cdc4b9e2e224229/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7a26cd9d1226c4053cdc4b9e2e224229/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b524f6b51e48f10655044ee61744828a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b524f6b51e48f10655044ee61744828a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/43fb34116678a441ead304e0a6ffed5f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/43fb34116678a441ead304e0a6ffed5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/cc5c6d5df236a3786f0cbedb1517e7a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/cc5c6d5df236a3786f0cbedb1517e7a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8f03be2981ad43eed7d9e484bae371d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8f03be2981ad43eed7d9e484bae371d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/278d95ced3a2e2a966f48f4888fadd75/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/278d95ced3a2e2a966f48f4888fadd75/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ddcd0b95eaf710645f5d7cac1e99c4f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ddcd0b95eaf710645f5d7cac1e99c4f5/AndroidManifest.xml:20:5-44
+INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+	android:targetSdkVersion
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
+		INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml
+		MERGED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.2.aar/d9a440b82e2ccc3764999659738078cb/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.2.aar/d9a440b82e2ccc3764999659738078cb/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
+application
+ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:design:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/525118c66154844e9902076a2a6523c0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/525118c66154844e9902076a2a6523c0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:26.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/customtabs-26.0.0.aar/8ddb02951484c22d454a59dc09d07430/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/customtabs-26.0.0.aar/8ddb02951484c22d454a59dc09d07430/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-auth:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.2.2.aar/6f3116021647981460452e757fe0a3bc/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.2.2.aar/6f3116021647981460452e757fe0a3bc/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-config:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-config-11.2.2.aar/c0f96c51f9e9e91003b8c2a2c68c8c05/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-config-11.2.2.aar/c0f96c51f9e9e91003b8c2a2c68c8c05/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-base-11.2.2.aar/d2789c0144185b644078e907e4256ae4/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-base-11.2.2.aar/d2789c0144185b644078e907e4256ae4/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-core-11.2.2.aar/ded385f337181aebe20ae113149f6356/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-core-11.2.2.aar/ded385f337181aebe20ae113149f6356/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.2.aar/d9a440b82e2ccc3764999659738078cb/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.2.aar/d9a440b82e2ccc3764999659738078cb/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-common-11.2.2.aar/ba7b2976f56584d634b13c5fbdb2000e/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-common-11.2.2.aar/ba7b2976f56584d634b13c5fbdb2000e/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.2.2.aar/d37f177cbb4338c3f12a2e2f96528bcc/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.2.2.aar/d37f177cbb4338c3f12a2e2f96528bcc/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.2.2.aar/0e491352a2957ac5daec62cde795cd62/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.2.2.aar/0e491352a2957ac5daec62cde795cd62/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/54df8d98db13130b2e7e8151f837d10c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/54df8d98db13130b2e7e8151f837d10c/AndroidManifest.xml:22:5-94
+MERGED from [:nativescript_camera:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/956216c40b61584fd61235393a2579ee/AndroidManifest.xml:11:5-21:19
+MERGED from [:nativescript_camera:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/956216c40b61584fd61235393a2579ee/AndroidManifest.xml:11:5-21:19
+MERGED from [:firebase-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-release.aar/853825d69243d5b7edb02f08f823621f/AndroidManifest.xml:11:5-22:19
+MERGED from [:firebase-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-release.aar/853825d69243d5b7edb02f08f823621f/AndroidManifest.xml:11:5-22:19
+MERGED from [:widgets-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/b7e72ff0bcb6ba062ed37679d4050ee4/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/b7e72ff0bcb6ba062ed37679d4050ee4/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fc410574b353d5146c006a4d36488faa/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fc410574b353d5146c006a4d36488faa/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/54df8d98db13130b2e7e8151f837d10c/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+	android:icon
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
+	android:allowBackup
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
+	android:theme
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:34:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from /Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/AndroidManifest.xml:41:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/customtabs-26.0.0.aar/8ddb02951484c22d454a59dc09d07430/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/customtabs-26.0.0.aar/8ddb02951484c22d454a59dc09d07430/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.0.0] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/customtabs-26.0.0.aar/8ddb02951484c22d454a59dc09d07430/AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-base-11.2.2.aar/d2789c0144185b644078e907e4256ae4/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-base-11.2.2.aar/d2789c0144185b644078e907e4256ae4/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-base-11.2.2.aar/d2789c0144185b644078e907e4256ae4/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-base-11.2.2.aar/d2789c0144185b644078e907e4256ae4/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.2.aar/d9a440b82e2ccc3764999659738078cb/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.2.aar/d9a440b82e2ccc3764999659738078cb/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.2.aar/d9a440b82e2ccc3764999659738078cb/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.2.aar/d9a440b82e2ccc3764999659738078cb/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.2.aar/d9a440b82e2ccc3764999659738078cb/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.2.aar/d9a440b82e2ccc3764999659738078cb/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.2.aar/d9a440b82e2ccc3764999659738078cb/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.2.aar/d9a440b82e2ccc3764999659738078cb/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.2.aar/e4fe94f0f11f07220cdd26d8746c5fbe/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:24:17-71
+permission#com.mindmeld.giftler.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:26:22-76
+uses-permission#com.mindmeld.giftler.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:31:13-34:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.mindmeld.giftler
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:33:27-58
+category#com.mindmeld.giftler
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:43:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.2.aar/8630ef041f483d5f428bba6cc34eb721/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-common-11.2.2.aar/ba7b2976f56584d634b13c5fbdb2000e/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-common-11.2.2.aar/ba7b2976f56584d634b13c5fbdb2000e/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-common-11.2.2.aar/ba7b2976f56584d634b13c5fbdb2000e/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-common-11.2.2.aar/ba7b2976f56584d634b13c5fbdb2000e/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-common-11.2.2.aar/ba7b2976f56584d634b13c5fbdb2000e/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.2.2.aar/0e491352a2957ac5daec62cde795cd62/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.2.2.aar/0e491352a2957ac5daec62cde795cd62/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.2.2] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.2.2.aar/0e491352a2957ac5daec62cde795cd62/AndroidManifest.xml:20:20-65
+uses-permission#android.permission.CAMERA
+ADDED from [:nativescript_camera:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/956216c40b61584fd61235393a2579ee/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:nativescript_camera:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/956216c40b61584fd61235393a2579ee/AndroidManifest.xml:9:22-62
+provider#android.support.v4.content.FileProvider
+ADDED from [:nativescript_camera:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/956216c40b61584fd61235393a2579ee/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:nativescript_camera:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/956216c40b61584fd61235393a2579ee/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:nativescript_camera:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/956216c40b61584fd61235393a2579ee/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:nativescript_camera:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/956216c40b61584fd61235393a2579ee/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:nativescript_camera:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/956216c40b61584fd61235393a2579ee/AndroidManifest.xml:13:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:nativescript_camera:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/956216c40b61584fd61235393a2579ee/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:nativescript_camera:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/956216c40b61584fd61235393a2579ee/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:nativescript_camera:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/956216c40b61584fd61235393a2579ee/AndroidManifest.xml:18:17-67
+service#org.nativescript.plugins.firebase.MyFirebaseMessagingService
+ADDED from [:firebase-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-release.aar/853825d69243d5b7edb02f08f823621f/AndroidManifest.xml:12:9-16:19
+	android:name
+		ADDED from [:firebase-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-release.aar/853825d69243d5b7edb02f08f823621f/AndroidManifest.xml:12:18-93
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-release.aar/853825d69243d5b7edb02f08f823621f/AndroidManifest.xml:13:13-15:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-release.aar/853825d69243d5b7edb02f08f823621f/AndroidManifest.xml:14:17-78
+	android:name
+		ADDED from [:firebase-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-release.aar/853825d69243d5b7edb02f08f823621f/AndroidManifest.xml:14:25-75
+service#org.nativescript.plugins.firebase.MyFirebaseInstanceIDService
+ADDED from [:firebase-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-release.aar/853825d69243d5b7edb02f08f823621f/AndroidManifest.xml:17:9-21:19
+	android:name
+		ADDED from [:firebase-release:] /Users/t_fabienflight/.gradle/caches/transforms-1/files-1.1/firebase-release.aar/853825d69243d5b7edb02f08f823621f/AndroidManifest.xml:17:18-94

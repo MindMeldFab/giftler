@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://nativescriptinttutorial.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">881618584242</string>
+    <string name="google_api_key" translatable="false">AIzaSyB9GYnlBngxzjUzYsrV8JzSZ9c3h58SmvM</string>
+    <string name="google_app_id" translatable="false">1:881618584242:android:37e849ae94774c83</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB9GYnlBngxzjUzYsrV8JzSZ9c3h58SmvM</string>
+    <string name="google_storage_bucket" translatable="false">nativescriptinttutorial.appspot.com</string>
+    <string name="project_id" translatable="false">nativescriptinttutorial</string>
+</resources>

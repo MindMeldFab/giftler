@@ -1,0 +1,1 @@
+/Users/t_fabienflight/Documents/nativescript/giftler/platforms/android/app/src/main/assets/app
